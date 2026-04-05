@@ -1,3 +1,3 @@
 # CelestialOcean-Mod  v0.1<br>
 ## 沧海浮穹-模组
-这是一个泰拉瑞亚模组。 This is a Terraria mod.<br>
+沧海浮穹是一个基于泰拉瑞亚而开发的模组，现阶段的内容并不多，还需等待后续开发
