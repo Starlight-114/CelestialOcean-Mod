@@ -1,3 +1,6 @@
 displayName = 沧海浮穹
-author = Star_light114
+author = 沧海浮穹的开发者们
 version = 0.1
+hideResources = true
+modReferences = InnoVault
+buildIgnore = ObsoleteAssets/*,Design/*
