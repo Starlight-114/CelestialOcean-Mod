@@ -33,9 +33,9 @@ This is a Terraria mod.
 新设计的内容中存有作物一栏，其除对向**人工栽种**外，还对向于栽培工艺。在现设计的内容中，玩家可以进行栽种生产的有**植物**，**蘑菇**，**晶石**(这也是作物的类别)，
 并且作物还分成三种培养方式，**土培**，**水培**，**半水培**，对于人工栽种来说，作物种植还有环境的限制。
 
-**环境区**
+**环境区Environmental Zone**
 隶属于栽培工艺内的一个分类，现设计中属于后期内容
 
 类似于环境瓶建筑，其会在一定区域内生成一个不影响外界的环境区域。
 
-生成使用到的设备被称为**系统化液炼环境载析机**-英文名**Systematic Liquid-Refining Environmental Carrier-Analyzer**，简称**SL-Rec-A**
+生成使用到的设备被称为**系统化液炼环境载析机**-英文名**Systematic Liquid-Refining Environmental Carrier-Analyzer**，简称**SL-Rec-A**。总共结合了**注炼机Liquid Injection Refiner** *(器械)*，**易载式存储模块Easy-Load Storage Module** *(模块)*，**载析仪Load Analyzer**
